@@ -1,1 +1,13 @@
 sftp-config.json
+vendor/
+node_modules/
+composer.lock
+
+wp/
+wp-config.php
+
+wp-content/uploads/*
+wp-content/upgrade/*
+wp-content/plugins/*
+wp-content/themes/*
+
