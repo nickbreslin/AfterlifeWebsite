@@ -2,7 +2,7 @@ sftp-config.json
 vendor/
 node_modules/
 composer.lock
-
+.DS_Store
 wp/
 wp-config.php
 
