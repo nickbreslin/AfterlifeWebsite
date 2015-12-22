@@ -17,7 +17,10 @@
     "wpackagist-plugin/advanced-custom-fields": "*",
     "wpackagist-plugin/posts-to-posts": "1.4.x",
     "wpackagist-plugin/redirection": "*",
-    "wpackagist-plugin/wordpress-seo": "*"
+    "wpackagist-plugin/wordpress-seo": "*",
+
+
+    "nickbreslin/AfterlifeWordpressTheme": "dev-master"
   },
   "extra": {
     "installer-paths": {
