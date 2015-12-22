@@ -3,12 +3,16 @@
     {
       "type": "composer",
       "url": "http://wpackagist.org"
+    },
+    {
+      "type": "vcs",
+        "url": "https://github.com/nickbreslin/AfterlifeWordpressTheme"
     }
   ],
   "require": {
     "php": ">=5.5",
     "composer/installers": "~1.0.12",
-    "johnpbloch/wordpress": "4.3.1",
+    "johnpbloch/wordpress": "4.4",
     "fancyguy/wordpress-monolog": "dev-master",
     "wpackagist-plugin/advanced-custom-fields": "*",
     "wpackagist-plugin/posts-to-posts": "1.4.x",
